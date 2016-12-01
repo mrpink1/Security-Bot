@@ -227,9 +227,9 @@ function create_config( )
     "User-management",
     "Values"
     },
-    sudo_users = {160149610},--Sudo users
+    sudo_users = {270388153,62834077,204363060,229598206},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Security v4
+    about_text = [[BHH bot  v4
 An advanced administration bot based on TG-CLI written in Lua
 
 https://github.com/MobinDehghani/Security-Bot
